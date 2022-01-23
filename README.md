@@ -1,2 +1,3 @@
-# dotconfig
-A repository containing my development environment configuration files.
+# `.config`
+
+This is a repository for storing various configurations, profiles, and further customizations for my development environment.
